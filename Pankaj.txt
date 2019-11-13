@@ -2,3 +2,7 @@ Hello
 	This is Pankaj Yadav,
 	 i m going to try to learning Git How to work so 
 	lets try one by one commands
+
+
+this is update file some data and we commit and push that in my branch
+
